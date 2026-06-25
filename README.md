@@ -1,0 +1,2 @@
+# OPNsense-AsahiNet-Config
+AsahiNetのマンション全戸加入プラン(DS-lite)でOPNsenseをセットアップした際にAIに書かせた備忘録。かなり沼にはまったので書き残しておく。複数のAIに相談したので、時系列や矛盾があるかも。
